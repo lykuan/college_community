@@ -1,0 +1,11 @@
+{
+    "editor.foldingImportsByDefault": false,
+    "diffEditor.renderGutterMenu": true,
+    "editor.codeActionWidget.showHeaders": true,
+    "workbench.layoutControl.type": "both",
+    "workbench.remoteIndicator.showExtensionRecommendations": false,
+    "accessibility.verbosity.inlineChat": false,
+    "accessibility.verbosity.panelChat": true,
+    "workbench.sideBar.location": "left",
+    "editor.snippetSuggestions": "inline"
+}

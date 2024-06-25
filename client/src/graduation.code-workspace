@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"workbench.layoutControl.type": "both",
+		"workbench.remoteIndicator.showExtensionRecommendations": false,
+		"workbench.sideBar.location": "left"
+	}
+}
